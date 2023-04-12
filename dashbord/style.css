@@ -9,8 +9,19 @@
     width: 8%;
 }
 body {
-    background-color: blue;
+    background-color: rgb(93, 226, 148);
 }
 a {
-    color:whitesmoke;
+    color:rgb(255, 0, 0);
+}
+.main {
+    color: rgb(255, 230, 0)
+}
+nav {
+    color: black;
+    background-color: whitesmoke;
+    text-size-adjust: 10;
+}
+.hh {
+    color: black;
 }
