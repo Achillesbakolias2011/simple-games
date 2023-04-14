@@ -10,18 +10,26 @@
 }
 body {
     background-color: rgb(93, 226, 148);
+    background-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowztLGEFxlFmhaigaN28dzVE2d7hP0RKQL0t8yPD7x0IygKOwVDql5SnsUcbfuKoYLic&usqp=CAU;
+    background-repeat: no-repeat;
+        background-size: cover;
 }
+ 
 a {
-    color:rgb(255, 0, 0);
+    color:rgb(115, 255, 0);
 }
 .main {
     color: rgb(255, 230, 0)
 }
 nav {
     color: black;
-    background-color: whitesmoke;
+    background-color: rgba(245, 245, 245, 0.904);
     text-size-adjust: 10;
+    overflow: visible;
 }
 .hh {
     color: black;
+}
+h1 {
+    color: rgb(51, 255, 0);
 }
